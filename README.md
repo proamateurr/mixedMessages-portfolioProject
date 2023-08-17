@@ -6,8 +6,10 @@
 
 > Component 1:
 >    - A greeting (Extra goal: make it according to the time of day)
+
 > Component 2:
 >    - A small motivational message to encourage and motivate the user.
+
 > Component 3:
 >    - A daily quote with author (Extra: the quote only changes at the end of the day)
 
